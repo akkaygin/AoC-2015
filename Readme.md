@@ -1,0 +1,2 @@
+# Advent of Code 2015
+This repository contains my solutions for the [Advent of Code 2015](https://adventofcode.com/2015). These solutions are written in Python, focusing on solving each problem rather than optimizing for speed, minimal lines of code, or elegance. The goal is to learn, have fun, and enjoy the problem-solving process.
