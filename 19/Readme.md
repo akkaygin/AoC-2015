@@ -30,7 +30,7 @@ Your puzzle input describes all of the possible replacements and, at the bottom,
 
 > 518
 
-# Part Two
+## Part Two
 Now that the machine is calibrated, you're ready to begin molecule fabrication.
 
 Molecule fabrication always begins with just a single electron, e, and applying replacements one at a time, just like the ones during calibration.

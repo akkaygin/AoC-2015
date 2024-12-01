@@ -76,7 +76,7 @@ In your grid of 100x100 lights, given your initial configuration, how many light
 
 > 814
 
-# Part Two
+## Part Two
 You flip the instructions over; Santa goes on to point out that this is all just an implementation of Conway's Game of Life. At least, it was, until you notice that something's wrong with the grid of lights you bought: four lights, one in each corner, are stuck on and can't be turned off. The example above will actually run like this:
 
 ```

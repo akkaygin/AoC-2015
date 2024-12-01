@@ -13,7 +13,7 @@ Filling all containers entirely, how many different combinations of containers c
 
 > 1638
 
-# Part Two
+## Part Two
 While playing with all the containers in the kitchen, another load of eggnog arrives! The shipping and receiving department is requesting as many containers as you can spare.
 
 Find the minimum number of containers that can exactly fit all 150 liters of eggnog. How many different ways can you fill that number of containers and still hold exactly 150 litres?

@@ -17,7 +17,7 @@ Given the descriptions of each reindeer (in your puzzle input), after exactly 25
 
 > 2655
 
-# Part Two
+## Part Two
 Seeing how reindeer move in bursts, Santa decides he's not pleased with the old scoring system.
 
 Instead, at the end of each second, he awards one point to the reindeer currently in the lead. (If there are multiple reindeer tied for the lead, they each get one point.) He keeps the traditional 2503 second time limit, of course, as doing otherwise would be entirely ridiculous.

@@ -17,7 +17,7 @@ What is the sum of all numbers in the document?
 
 > 191164
 
-# Part Two
+## Part Two
 Uh oh - the Accounting-Elves have realized that they double-counted everything red.
 
 Ignore any object (and all of its children) which has any property with the value "red". Do this only for objects ({...}), not arrays ([...]).

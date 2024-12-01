@@ -24,7 +24,7 @@ Given Santa's current password (your puzzle input), what should his next passwor
 
 > hxbxxyzz
 
-# Part Two
+## Part Two
 Santa's password expired again. What's the next one?
 
 > hxcaabcc
